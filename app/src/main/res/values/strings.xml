@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lets Spin</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="myArr">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+        <item>test4</item>
+        <item>test5</item>
+    </string-array>
+</resources>
